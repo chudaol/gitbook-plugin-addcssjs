@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-addcssjs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Adds external CSS and JS files to the gitbook",
   "keywords": ["CSS", "JS", "gitbook"],
   "author": {
