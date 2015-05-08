@@ -1,7 +1,16 @@
 {
   "name": "gitbook-plugin-addcssjs",
   "version": "0.0.1",
-  "description": "Adds external CSS and js files to the gitbook",
+  "description": "Adds external CSS and JS files to the gitbook",
+  "keywords": ["CSS", "JS", "gitbook"],
+  "author": {
+    "name": "Olga Filipova",
+    "email": "chudaol@gmail.com"
+  },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/chudaol/gitbook-plugin-addcssjs"
+  },
   "engines": {
     "gitbook": ">1.x.x"
   }
