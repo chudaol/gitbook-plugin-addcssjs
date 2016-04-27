@@ -14,5 +14,19 @@
   "engines": {
     "gitbook": ">1.x.x"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitbook": {
+    "properties": {
+      "js": {
+        "type": "array",
+        "description": "List of JavaScript files to include",
+        "default": []
+      },
+      "css": {
+        "type": "array",
+        "description": "List of CSS files to include",
+        "default": []
+      }
+    }
+  }
 }
