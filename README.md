@@ -1,4 +1,7 @@
 # gitbook-plugin-addcssjs
+<p>
+  <a href="https://www.npmjs.com/package/gitbook-plugin-addcssjs"><img src="https://img.shields.io/npm/dt/gitbook-plugin-addcssjs.svg" alt="Downloads"></a>
+</p>
 Plugin for gitbook for adding external css and js files to the git book.
 
 ## How to use
